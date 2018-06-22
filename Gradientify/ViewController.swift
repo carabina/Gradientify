@@ -13,6 +13,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        let gradientifyView = GradientifyView(frame: self.view.bounds)
+        self.view.addSubview(gradientifyView)
     }
 
     override func didReceiveMemoryWarning() {

@@ -12,6 +12,7 @@
 		0C5B758420DCD8CE00D28045 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C5B758220DCD8CE00D28045 /* Main.storyboard */; };
 		0C5B758620DCD8CE00D28045 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C5B758520DCD8CE00D28045 /* Assets.xcassets */; };
 		0C5B758920DCD8CE00D28045 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C5B758720DCD8CE00D28045 /* LaunchScreen.storyboard */; };
+		0C5B759120DCD93C00D28045 /* GradientifyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C5B759020DCD93C00D28045 /* GradientifyView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0C5B758520DCD8CE00D28045 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C5B758820DCD8CE00D28045 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0C5B758A20DCD8CE00D28045 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C5B759020DCD93C00D28045 /* GradientifyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientifyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				0C5B757E20DCD8CE00D28045 /* AppDelegate.swift */,
 				0C5B758020DCD8CE00D28045 /* ViewController.swift */,
+				0C5B759020DCD93C00D28045 /* GradientifyView.swift */,
 				0C5B758220DCD8CE00D28045 /* Main.storyboard */,
 				0C5B758520DCD8CE00D28045 /* Assets.xcassets */,
 				0C5B758720DCD8CE00D28045 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				0C5B758120DCD8CE00D28045 /* ViewController.swift in Sources */,
 				0C5B757F20DCD8CE00D28045 /* AppDelegate.swift in Sources */,
+				0C5B759120DCD93C00D28045 /* GradientifyView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
