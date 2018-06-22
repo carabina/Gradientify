@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Gradientify'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Add a gradient subview on your UIView classes.'
 
   s.description      = <<-DESC
